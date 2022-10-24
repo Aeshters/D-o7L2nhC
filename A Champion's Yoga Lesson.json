@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Lesson 1",
-      "volume": "00",
+      "volume": "0",
       "last_updated": "1659066000",
       "groups": {
         "": [
@@ -60,7 +60,7 @@
     },
     "2": {
       "title": "Lesson 2",
-      "volume": "00",
+      "volume": "0",
       "last_updated": "1666531920",
       "groups": {
         "": [
