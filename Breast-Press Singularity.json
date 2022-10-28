@@ -4,5 +4,30 @@
   "artist": "Various Artist",
   "author": "Various Author",
   "cover": "https://i.imgur.com/shT5ZZr.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Title & Content Page",
+      "volume": "1",
+      "last_updated": "1666919496",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/YSTK3q6W/001.jpg",
+          "https://i.postimg.cc/4x3DRhwc/002.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "horosuke",
+      "volume": "1",
+      "last_updated": "1666919590",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/NfD3nx8Y/003.jpg",
+          "https://i.postimg.cc/y6m4mKkD/004.jpg",
+          "https://i.postimg.cc/JnQxhpzz/005.jpg",
+          "https://i.postimg.cc/KvmXQWMJ/006.jpg"
+        ]
+      }
+    }
+  }
 }
